@@ -1,3 +1,4 @@
+print("Welcome to AI Mock Interview System\n")   
 questions = [
     "What is Python?",
     "Explain OOP.",
